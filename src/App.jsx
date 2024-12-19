@@ -1,10 +1,9 @@
-// import './App.css'
-import Button from '@mui/material/Button';
+import MainWeather from "./MainWeather"
 
 function App() {
   return (
     <>
-      <Button variant="outlined">Outlined</Button>
+      <MainWeather/>
     </>
   )
 }
